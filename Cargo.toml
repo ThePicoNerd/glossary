@@ -8,6 +8,7 @@ edition = "2018"
 [dependencies]
 csv = "1.1.6"
 serde = { version = "1.0.130", features = ["derive"] }
+serde_with = "1.10.0"
 serde_yaml = "0.8.21"
 structopt = "0.3.23"
 walkdir = "2.3.2"

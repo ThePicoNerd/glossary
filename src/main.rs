@@ -6,7 +6,8 @@ use walkdir::WalkDir;
 
 use crate::term::{Dictionary, Entry};
 
-mod term;
+pub mod definition;
+pub mod term;
 
 #[derive(Debug, StructOpt)]
 struct Opt {
