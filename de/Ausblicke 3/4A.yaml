@@ -1,0 +1,40 @@
+dabei sein: vara med
+irgendwo: någonstans
+der Vorschlag: förslaget
+die Wohnung: lägenheten
+die Bettwäsche:
+  def: sängkläderna
+  note: pl.
+der Fahrstuhl: hissen
+im Erdgeschoss: på bottenvåningen
+ausgestattet: utrustad
+der Koffer: resväskan
+in der ersten Etage: på första våningen
+einrichten: inreda
+mit Blick auf: med utsikt mot
+anbieten: erbjuda
+das Wohnzimmer: vardagsrummet
+der PKW:
+  def: personbilen
+  note: Personenkraftwagen
+# own words
+gespannt auf:
+  def: nyfikna på
+  note: här
+sich schreiben:
+  def: skriva med varandra
+  note: jfr. "sich treffen"
+die Dachterasse: takterassen
+die Badewanne: badkaret
+außen: yttre
+die Wohnfläche: bostadsyta
+schon ewig:
+  def: jättelänge
+  note: ung.
+in Ordnung: ok
+soeben:
+  - just
+  - precis
+vorhanden:
+  - befintig
+  - tillgänglig

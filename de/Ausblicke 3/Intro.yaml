@@ -2,7 +2,9 @@ der Austauschschüler: utbytesstudenten
 der Stadtteil: stadsdelen
 die Sekretärin: sekreteraren
 der Schüler: eleven
-die Schulleiterin: rektorn (kvinnlig)
+die Schulleiterin:
+  def: rektorn
+  note: kvinnlig
 das Formular: formuläret
 ausfüllen: fylla i
 der Raum: rummet
